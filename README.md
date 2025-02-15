@@ -10,10 +10,6 @@ Interactive web interface
 
 Setup Instructions
 
-Clone the repository
-
-bashCopygit clone https://github.com/YOUR_USERNAME/python-job-scraper.git
-cd python-job-scraper
 
 Create virtual environment
 
@@ -42,6 +38,5 @@ Run the application
 
 bashCopypython manage.py runserver
 Deployment
-The application is deployed on Heroku at: https://python-jobs-dashboard.herokuapp.com
 Analysis Notebook
 The salary analysis notebook is available in the analysis folder.
